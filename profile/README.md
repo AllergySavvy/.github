@@ -21,8 +21,8 @@
 Coming soon...
 
 ## Resource
-# Machine Learning Resource
+### Machine Learning Resource
 
-# Cloud Computing Resource
+### Cloud Computing Resource
 
-# Mobile Development Resource
+### Mobile Development Resource
