@@ -26,7 +26,6 @@ Coming soon...
 
 ## Resource 📖
 ### Machine Learning Resource
-<a href="">Machine Learning Resource</a>
 
 ### Cloud Computing Resource
 
