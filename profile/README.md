@@ -16,3 +16,13 @@
 | C319D4KX0594   | Latifah Putri Simanjuntak | Cloud Computing | Universitas Sumatera Utara |  <a href="https://www.linkedin.com/in/latifah-putri-simanjuntak-31b1432b9/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
 | A614D4KY4153   | Muhammad Juzairi Safitli  | Mobile Development | Universitas Nurdin Hamzah |  <a href="https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
 | C319D4KX0594   | Rizki Wahyudi | Mobile Development | Universitas Sumatera Utara |  <a href="https://www.linkedin.com/in/rizki-wahyudi7/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+
+## Preview App
+Coming soon...
+
+## Resource
+# Machine Learning Resource
+
+# Cloud Computing Resource
+
+# Mobile Development Resource
