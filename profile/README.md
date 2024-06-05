@@ -1,12 +1,6 @@
-## Hi there 👋
+## AllergySavvy: Smart Solutions for Allergy-Aware Cooking
 
-<!--
+#Themes
+<p align="justify">Amidst the escalating global challenge posed by food allergies, our project endeavors to pioneer a solution: a personalized recipe recommendation application. The World Health Organization (WHO) has underscored a notable increase in food allergy cases worldwide, necessitating urgent action to address this pressing public health crisis. Our application will leverage advanced machine learning algorithms to furnish tailored recipe suggestions that accommodate the specific allergies of users, thereby ensuring their safety and well-being. Through the empowerment of individuals impacted by food allergies, our team aspires to enhance their quality of life and mitigate the associated risks of allergic reactions. We are firmly convinced that by furnishing a pragmatic and accessible tool for managing food allergies, we can profoundly influence public health outcomes and cultivate a more inclusive and supportive community for individuals affected by this pervasive issue.</p>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="justify">Looking at allergy case data from WHO, we noticed that people tend to be unaware of allergies that may look mild but can be dangerous. Many allergy cases in the data come from daily food consumption. Therefore, we decided to create an app that can provide food recommendations for users based on the allergies they have. The app we created will also provide food recipe recommendations and supporting features such as cooking video tutorials embedded in the app.</p>
